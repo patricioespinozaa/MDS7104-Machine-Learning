@@ -19,3 +19,6 @@ The course focused on machine learning techniques, dimensionality reduction, tre
 - **T4:** Modelos de Clasificación, uso de AIC y BIC  
 - **T5:** Reducción de dimensionalidad y SVC  
 - **T6:** Modelos basados en árboles  
+
+Official course repository:  
+- [Machine Learning](https://github.com/GAMES-UChile/Curso-Aprendizaje-de-Maquinas)
